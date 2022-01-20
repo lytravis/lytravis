@@ -1,21 +1,22 @@
-### Hi there 👋
+### Hello World, I'm Travis 👋
 
 <!--
 **lytravis/lytravis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
-# Travis Ly
+- 🔭 I’m currently looking for a job 
+- 🌱 I’m currently learning data structures and algorithms / system design
+- 👯 I’m looking to collaborate on full-stack applications and DSA
+- 🤔 I’m looking for pair-programming opportunities ...
+- 💬 Ask me about anything
+- 📫 How to reach me: travisbly@gmail.com
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: I like 🐢
+
 
 
 ## Contact Me
