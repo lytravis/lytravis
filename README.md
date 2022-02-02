@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I like 🐢
 
-
+<img src='https://komarev.com/ghpvc/?username=lytravis&color=yellowgreen' alt='profile view counter' title='profile view counter'>
 
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lytravis/)
