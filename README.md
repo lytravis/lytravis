@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)"/>
 <p/>
 
-![AJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=asabushaban&count_private=true&show_icons=true&theme=tokyonight)
+![Travis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lytravis&count_private=true&show_icons=true&theme=tokyonight)
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lytravis&theme=tokyonight">
