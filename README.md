@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently looking for a job 
+- 🔭 I’m currently looking for a full-stack software engineer role
 - 🌱 I’m currently learning data structures and algorithms / system design
 - 👯 I’m looking to collaborate on full-stack applications and DSA
 - 🤔 I’m looking for pair-programming opportunities ...
