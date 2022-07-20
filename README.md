@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on full-stack applications and DSA
 - 🤔 I’m looking for pair-programming opportunities ...
 - 💬 Ask me about anything
-- 📫 How to reach me: travisbly@gmail.com
+- 📫 How to reach me: swetravis@gmail.com
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I like 🐢
 
