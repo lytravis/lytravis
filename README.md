@@ -69,5 +69,5 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lytravis&theme=tokyonight">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytravis&theme=tokyonight" />                                                                                                      
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytravis&theme=tokyonight" />    -->                                                                                                  
                                                                                                         
