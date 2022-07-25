@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ![Travis' GitHub stats](https://github-readme-stats.vercel.app/api?username=lytravis&count_private=true&show_icons=true&theme=tokyonight)
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lytravis&theme=tokyonight">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=lytravis&theme=tokyonight">   -->      
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytravis&theme=tokyonight" />    -->                                                                                                  
                                                                                                         
